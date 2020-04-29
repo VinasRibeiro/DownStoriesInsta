@@ -1,7 +1,7 @@
 class Users:
 
-    usernamep = 'jhonseena1213@protonmail.com'
-    passwordp = 'teste1213'
+    usernamep = 'your_user_email'
+    passwordp = 'your_password'
     linkp = 'https://www.instagram.com/stories/cznburak/'
     
 
